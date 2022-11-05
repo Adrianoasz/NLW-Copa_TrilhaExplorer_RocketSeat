@@ -4,7 +4,7 @@
 
 [<img src="./assets/calendario.gif" alt="link para a página" width=400px>](https://adrianoasz.github.io/NLW-Copa_TrilhaExplorer_RocketSeat/)
 
-## Tecnologias
+## Tecnologias Utilizadas
 
 - HTML
 - CSS
