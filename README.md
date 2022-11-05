@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NLW #10 Copa - Trilha Explorer
 
 <p>Evento exclusivo e gratuito, promovido pela RocketSeat para ensino de tecnologias WEB.</p>
