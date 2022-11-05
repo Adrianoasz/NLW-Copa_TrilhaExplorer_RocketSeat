@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NLW #10 Copa - Trilha Explorer
 
 <p>Evento exclusivo e gratuito, promovido pela RocketSeat para ensino de tecnologias WEB.</p>
@@ -13,3 +14,6 @@
 ## Projeto
 
 <p>Criação de um calendário com os jogos da Copa do Mundo 2022, utilizando as ferramentas de HTML, CSS e JavaScript</p>
+=======
+
+>>>>>>> d823174cb8ae35dd82aa83c22371c7cc63f7c069
